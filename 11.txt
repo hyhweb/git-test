@@ -15,3 +15,6 @@ bug6
 bug7
 add test branch
 test
+
+commit -am
+
